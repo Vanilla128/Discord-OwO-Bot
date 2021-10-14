@@ -22,6 +22,6 @@ More information can be found [here](https://creativecommons.org/licenses/by-nc-
 
 ## Contributing
 All merge requests are welcome! Just make sure to sign the [CLA](https://cla-assistant.io/ChristopherBThai/Discord-OwO-Bot) or else we cannot merge your changes.
-<a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+
 
 
